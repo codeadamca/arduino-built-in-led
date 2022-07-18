@@ -1,4 +1,4 @@
-# arduino-built-in-led
+# Arduino and the Builtin LED
 
 A basic example of turning the built-in LED on and off on an Arduino microcontroller.
 
