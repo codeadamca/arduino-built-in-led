@@ -6,7 +6,7 @@ A basic example of turning the built-in LED on and off on an Arduino microcontro
 
 Open up [Arduino Create](https://create.arduino.cc/editor/) and add the following code:
 
-```csharp
+```cpp
 // The setup function runs once when you press reset or power the board
 void setup() {
   
@@ -33,14 +33,15 @@ void loop() {
 
 You will need to setup the following circuit using your Arduino:
 
-![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-built-in-led/main/tinkercad-built-in-led.png)
+![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-built-in-led/main/_readme/tinkercad-built-in-led.png)
 
 [View the Circuit on Tinkercad](https://www.tinkercad.com/things/jOaJ7mR6LAt)
 
+***
 
-## Tutorial Requirements:
+## Repository Resoures
 
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Visual Studio Code](https://code.visualstudio.com/) (or any code editor)
 * [Arduino Create](https://create.arduino.cc/editor) 
 
 Full tutorial URL: https://codeadam.ca/learning/arduino-built-in-led.html
