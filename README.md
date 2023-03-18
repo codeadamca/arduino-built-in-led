@@ -29,13 +29,13 @@ void loop() {
 }
 ```
 
-[View the Arduino code on Arduino Create](https://create.arduino.cc/editor/professoradam/4a7f0767-de98-4d02-bfbf-5d69dfd58710/preview)
+> [View the Arduino code on Arduino Create](https://create.arduino.cc/editor/professoradam/4a7f0767-de98-4d02-bfbf-5d69dfd58710/preview)
 
 You will need to setup the following circuit using your Arduino:
 
 ![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-built-in-led/main/_readme/tinkercad-built-in-led.png)
 
-[View the Circuit on Tinkercad](https://www.tinkercad.com/things/jOaJ7mR6LAt)
+> [View the Circuit on Tinkercad](https://www.tinkercad.com/things/jOaJ7mR6LAt)
 
 ***
 
