@@ -41,7 +41,7 @@ You will need to setup the following circuit using your Arduino:
 
 ***
 
-## Repository Resoures
+## Repo Resoures
 
 * [Visual Studio Code](https://code.visualstudio.com/) (or any code editor)
 * [Arduino Create](https://create.arduino.cc/editor) 
