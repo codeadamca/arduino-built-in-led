@@ -35,9 +35,12 @@ void loop() {
 
 You will need to setup the following circuit using your Arduino:
 
-![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-built-in-led/main/_readme/tinkercad-built-in-led.png)
+![Tinkercad Circuit](_readme/tinkercad-built-in-led.png)
 
 > [View the Circuit on Tinkercad](https://www.tinkercad.com/things/jOaJ7mR6LAt)
+
+> Full tutorial URL:  
+> https://codeadam.ca/learning/arduino-built-in-led.html
 
 ***
 
@@ -45,8 +48,6 @@ You will need to setup the following circuit using your Arduino:
 
 * [Visual Studio Code](https://code.visualstudio.com/) (or any code editor)
 * [Arduino Create](https://create.arduino.cc/editor) 
-
-Full tutorial URL: https://codeadam.ca/learning/arduino-built-in-led.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
